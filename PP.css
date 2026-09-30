@@ -1,0 +1,11 @@
+
+body{
+    background: linear-gradient(to bottom, #4a4f57, #2b2e33);
+    color: beige;
+}  
+h1{
+    text-align: center;
+} 
+li{
+    font-size: large;
+}

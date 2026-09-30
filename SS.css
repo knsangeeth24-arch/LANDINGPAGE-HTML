@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to bottom, #f1faee, #a8dadc);
+}
+h1{
+    text-align: center;
+}
+li{
+    font-size: large;
+}

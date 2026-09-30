@@ -1,0 +1,43 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black ;
+}
+.welcome{
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+    background-color: red;
+    display: block;
+}
+.about{
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.ourservice{
+    color: white;
+}
+h3{
+    color: white;
+}
+li{
+    color: white;
+    font-size: 20px;
+}
+.why{
+    color: white;
+}
+.plan{
+    color: white;
+}
+p{
+    color: darkgray;
+}
